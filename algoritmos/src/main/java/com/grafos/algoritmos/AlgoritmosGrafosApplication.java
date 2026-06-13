@@ -4,10 +4,9 @@ import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class AlgoritmosApplication {
+public class AlgoritmosGrafosApplication {
 
-	public static void main(String[] args) {
-		SpringApplication.run(AlgoritmosApplication.class, args);
-	}
-
+    public static void main(String[] args) {
+        SpringApplication.run(AlgoritmosGrafosApplication.class, args);
+    }
 }
